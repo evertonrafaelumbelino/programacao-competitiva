@@ -1,7 +1,7 @@
 /*
     Problema: Acelerador de partículas
     Fonte: OBI 2020 - Nível 2 - Primeira fase
-    Técnica utilizada:
+    Técnica utilizada: Variáveis e operadores lógicos
 
 */
 
